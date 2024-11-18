@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Historia',
+    'Qual Presidente do Brasil criou a Carteira de Trabalho',
+    'Getúlio Vargas'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Russia',
+    'A capital da Rússia é Moscou'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Anime',
+    'Quem criou a obra Dragon Ball',
+    'Akira Toriyama'
 )
 
 criaCartao(
